@@ -1,5 +1,5 @@
 def add(a, b)
-  a - b # bug: should be addition, not subtraction
+  a + b
 end
 
 def subtract(a, b)
